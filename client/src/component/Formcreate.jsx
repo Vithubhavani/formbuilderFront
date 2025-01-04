@@ -1,4 +1,4 @@
-// FolderCreate.js
+
 import React, { useState } from 'react';
 import { postform } from '../services/form';
 import styles from './FormCreate.module.css'

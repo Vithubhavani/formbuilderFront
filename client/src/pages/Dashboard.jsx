@@ -2,7 +2,7 @@ import  { useEffect, useState } from "react"
 import Navbar from "../component/Navbar";
 import { MdCreateNewFolder } from "react-icons/md";
 import styles from './Dashboard.module.css'
-import FolderCreate from "../component/foldercreate";
+import FolderCreate from "../component/Foldercreate";
 import {getfolder,deletefolder} from '../services/folder'
 import { RiDeleteBin6Line } from "react-icons/ri";
 import { getform,deleteform } from "../services/form";
